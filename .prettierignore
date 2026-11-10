@@ -4,3 +4,7 @@
 # Third-party scripts. Prettier would reprint the minified copies.
 assets/js/
 assets/lib/
+
+# The liquid HTML parser inserts a new blank line on every run.
+index.html
+anti-collusion-policy.html
